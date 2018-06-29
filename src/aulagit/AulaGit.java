@@ -10,8 +10,7 @@ package aulagit;
  * @author Alunos
  */
 public class AulaGit {
-    private int  a;
-    /**
+        /**
      * @param args the command line argumentsteste
      */
     public static void main(String[] args) {
